@@ -1,0 +1,10 @@
+newmtl SimplygonMaterial
+Ka 1.0000 1.0000 1.0000
+map_Ka Textures\Ambient.png
+Kd 1.0000 1.0000 1.0000
+map_Kd Textures\Diffuse.png
+Ks 1.0000 1.0000 1.0000
+Ns 128.0000
+map_Ks Textures\Specular.png
+bump Textures\Normals.png
+
